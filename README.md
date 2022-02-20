@@ -1,5 +1,5 @@
-# Home-automation
-Home light automation with c 
+# relay control
+relay with mobile app 
 
 ## REQUIREMENT
     arduino
